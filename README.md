@@ -11,7 +11,7 @@
 - Google Data Analytics Capstone: Complete a Case Study 
 
 ## Course content
-Course 1– Foundations: Data, Data, Everywhere
+#### Course 1– Foundations: Data, Data, Everywhere
 
 - Introducing data analytics: Data helps us make decisions, in everyday life and in business. In this first part of the course, you will learn how data analysts use tools of their trade to inform those decisions. You will also get to know more about this course and the overall program expectations.
 
@@ -25,7 +25,7 @@ Course 1– Foundations: Data, Data, Everywhere
 
 - Completing the Course Challenge: At the end of this course, you will be able to put everything you have learned into perspective with the Course Challenge. The Course Challenge will ask you questions about the main concepts you have learned and then give you an opportunity to apply those concepts in two scenarios.
 
-## COURSE 2: ASK QUESTIONS TO MAKE DATA-DRIVEN DECISIONS 
+#### COURSE 2: ASK QUESTIONS TO MAKE DATA-DRIVEN DECISIONS 
 
 - Asking effective questions: To do the job of a data analyst, you need to ask questions and problem-solve. In this part of the course, you’ll check out some common analysis problems and how analysts solve them. You’ll also learn about effective questioning techniques that can help guide your analysis. 
 
