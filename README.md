@@ -25,7 +25,7 @@
 
 - Completing the Course Challenge: At the end of this course, you will be able to put everything you have learned into perspective with the Course Challenge. The Course Challenge will ask you questions about the main concepts you have learned and then give you an opportunity to apply those concepts in two scenarios.
 
-#### COURSE 2: ASK QUESTIONS TO MAKE DATA-DRIVEN DECISIONS 
+#### Course 2 – Ask Questions to Make Data-Driven Decisions
 
 - Asking effective questions: To do the job of a data analyst, you need to ask questions and problem-solve. In this part of the course, you’ll check out some common analysis problems and how analysts solve them. You’ll also learn about effective questioning techniques that can help guide your analysis. 
 
