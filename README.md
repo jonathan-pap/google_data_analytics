@@ -7,7 +7,7 @@
 - Process Data from Dirty to Clean
 - Analyze Data to Answer Questions
 - Share Data Through the Art of Visualization 
-- ta Analysis with R Programming 
+- Data Analysis with R Programming 
 - Google Data Analytics Capstone: Complete a Case Study 
 
 ## Course content
